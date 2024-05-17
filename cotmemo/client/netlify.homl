@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/src/pages/login.jsx"
+  to = "/login"
   status = 200
