@@ -1,8 +1,4 @@
-[build]
-  publish = "build"
-  command = "npm run build"
-
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/login/*"
+  to = "/src/pages/login.jsx"
   status = 200
